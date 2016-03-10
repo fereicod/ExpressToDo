@@ -6,5 +6,5 @@ Pequeña app utilizando:
 * Node.js
 * Express
 * MongoDB
-* Jade
+* Ejs
 * AngularJS
